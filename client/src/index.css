@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+
+/*  Civil Contractor 
+Waterproofing appliacator 
+plumber
+carpenter
+Painter
+borewell drilling
+Electrician
+Solar Panel Installer
+Real Estate
+Construction Material Suppliers */
+
+/* 
+const sampleBusinessData = {
+  businessName: "Indore Home Fixers",
+  category: "Electrician",
+  primaryPhone: "9876543210",
+  secondaryPhone: "9123456780",
+  experience: "5-10 years",
+  shortDesc: "Trusted electricians for home and commercial repairs.",
+  fullDesc: "Indore Home Fixers provides professional electrical installation, maintenance, and emergency repair services across Indore. With over 8 years of experience, we ensure safety and quality in every project.",
+
+  logoUrl: "https://cdn.bizregister.in/logo-indore-home-fixers.jpg",
+  bannerUrl: "https://cdn.bizregister.in/banner-indore-home-fixers.jpg",
+  aadharUrl: "https://cdn.bizregister.in/aadhar-electrician.jpg",
+  galleryUrls: [
+    "https://cdn.bizregister.in/work1.jpg",
+    "https://cdn.bizregister.in/work2.jpg",
+    "https://cdn.bizregister.in/switch-installation.jpg"
+  ],
+
+  websiteUrl: "https://indorehomefixers.in",
+  facebookUrl: "https://facebook.com/indorehomefixers",
+  whatsappUrl: "https://wa.me/919876543210",
+  instagramUrl: "https://instagram.com/indorehomefixers",
+  linkedinUrl: "https://linkedin.com/company/indorehomefixers",
+  youtubeUrl: "https://youtube.com/@indorehomefixers",
+  xUrl: "https://twitter.com/indorefixers",
+
+  street: "12 Vishnu Nagar",
+  landmark: "Near Palasia Square",
+  locality: "Bhawarkuan",
+  city: "Indore",
+  state: "Madhya Pradesh",
+  zipCode: "452001",
+
+  openingHour: "09:00 AM",
+  closingHour: "07:00 PM",
+  registrationNumber: "ELEC123456",
+  gstin: "23ABCDE1234F1Z2"
+};
+ */
+
+/* {
+  "_id": {
+    "$oid": "68356afb23b5c4ddfec55184"
+  },
+  "businessName": "EcoTile Flooring",
+  "category": "Flooring Services",
+  "phone": "+911234567016",
+  "shortDesc": "Durable and eco-friendly tile installation.",
+  "fullDesc": "EcoTile specializes in sustainable floor tiling, marble installations, and vinyl solutions for modern homes.",
+
+  "uploadImage1": "logo.jpg",
+  "uploadImage2": "banner.jpg",
+  "aadharImage": "aadhaar.avif",
+"galleryImages": [
+    "work1.jpg",
+    "work2.jpg",
+    "work3.jpg"
+  ]
+
+    "facebook": "https://facebook.com/ecotile",
+  "whatsapp": "https://wa.me/911234567016",
+  "instagram": "https://instagram.com/ecotile",
+  "linkedin": "https://linkedin.com/company/ecotile",
+  "websiteUrl": "https://ecotile.in",
+
+  "street": "34 Marble Street",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "zip": "160001",
+  
+  "openingTime": "09:30",
+  "closingTime": "18:30",
+  "regNumber": "FLR016",
+  "gstin": "04ABCDE1234F1Z0",
+
+  
+} */

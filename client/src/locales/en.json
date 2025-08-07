@@ -1,0 +1,280 @@
+{
+  "home": "Home",
+  "categories": "Categories",
+  "add_business": "Add Business",
+  "login": "Login / Sign Up",
+  "logout": "Logout",
+  "language": "Language",
+  "search_placeholder": "Search businesses...",
+  "carousel_phrase_1": "List Your Business Here",
+  "carousel_phrase_2": "Boost Your Local Reach",
+  "carousel_phrase_3": "Get More Customers Daily",
+  "carousel_description": "Expand your business presence and attract more customers effortlessly.",
+  "list_button_label": "List Your Business",
+  "already_listed_alert": "You have already listed a business. Visit your dashboard to manage it.",
+  "explore_categories": "Explore Top Categories",
+  "loading": "Loading...",
+
+  "category_names": {
+    "civil_contractor": "Civil Contractor",
+    "waterproofing_applicator": "Waterproofing Applicator",
+    "plumber": "Plumber",
+    "carpenter": "Carpenter",
+    "painter": "Painter",
+    "borewell_drilling": "Borewell Drilling",
+    "electrician": "Electrician",
+    "solar_panel_installer": "Solar Panel Installer",
+    "real_estate": "Real Estate",
+    "construction_material_suppliers": "Construction Material Suppliers",
+    "cleaning_worker": "Cleaning Worker",
+    "furniture_contractor": "Furniture Contractor"
+  },
+  "howitworks": {
+    "title": "How It Works",
+    "step1_title": "Boost Footfall",
+    "step1_desc": "with a Powerful Local Presence!",
+    "step2_title": "Get More Calls, Visits & Orders",
+    "step2_desc": "All from One Listing!",
+    "step3_title": "Don’t Miss Out",
+    "step3_desc": "This Opportunity –",
+    "step3_button": "Business Now!",
+    "already_listed_alert": "You’ve already added your business with us.\nThank you for contributing to Bazaardial!"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "prev": "Previous Testimonials",
+    "next": "Next Testimonials"
+  },
+  "cta": {
+    "heading": "Want to grow your business? Add your listing today!",
+    "subtext": "Join thousands of businesses that are growing their reach and attracting new customers.",
+    "button": "Add Business",
+    "already_listed_alert": "You have already listed a business. Visit your dashboard to manage it."
+  },
+  "footer": {
+    "support_label": "Toll-free support:",
+    "quick_links": "Quick Links",
+    "follow_us": "Follow Us",
+    "about_text": "Bazaardial helps you discover reliable services and local businesses. Join us to grow your reach and visibility in your city.",
+    "rights": "All rights reserved."
+  },
+  "featured": {
+    "title": "Featured Businesses",
+    "loading": "Loading businesses...",
+    "error": "Failed to load businesses. Please try again later.",
+    "empty": "No businesses found.",
+    "website": "Website",
+    "no_website": "No website",
+    "details": "Details",
+    "city": "City",
+    "state": "State"
+  },
+  "about": {
+    "heading": "About Us",
+    "image_alt": "Illustration of Bazaardial local business connections",
+    "welcome": "Welcome to Bazaardial",
+    "desc1": ", your trusted partner in discovering and connecting with the best local businesses near you. Our mission is simple — to bridge the gap between consumers and service providers by offering a reliable and user-friendly platform.",
+    "desc2": "Founded with a vision to empower small and medium-sized enterprises, Bazaardial brings together a wide range of listings — including Civil Contractors, IT & Software Services, Real Estate Agents, Carpenters, Painters, Waterproofing Applicators, Plumbers, Electricians, and Construction Material Suppliers.",
+    "desc3": "For users, Bazaardial offers a seamless experience to explore verified listings, read genuine reviews, compare services, and make informed decisions. For businesses, we provide powerful tools to showcase services, manage profiles, and attract new customers — all in one place.",
+    "desc4": "Whether you're looking for a trusted service provider or aiming to promote your business, Bazaardial is your go-to platform.",
+    "closing": "Discover Local. Connect Better. Grow Together — Only on Bazaardial.",
+    "features": {
+      "verified_title": "Verified Listings",
+      "verified_desc": "Find trusted, local service providers across multiple industries with confidence.",
+      "tools_title": "Business Tools",
+      "tools_desc": "Showcase your services, manage your profile, and generate quality leads.",
+      "reviews_title": "Genuine Reviews",
+      "reviews_desc": "Make informed decisions with insights from real customer experiences.",
+      "categories_title": "Diverse Categories",
+      "categories_desc": "From electricians to real estate agents — we cover every local need.",
+      "community_title": "Community Focused",
+      "community_desc": "We support neighborhood economies and local business growth.",
+      "connection_title": "Stronger Connections",
+      "connection_desc": "Connect consumers and businesses on one seamless platform."
+    }
+  },
+  "contact": {
+    "whatsapp": "Chat on WhatsApp"
+  },
+  "detail": {
+    "working_hours": "Working Hours",
+    "experience": "Experience",
+    "primary_phone": "Primary Phone",
+    "alternate_phone": "Alternate Phone",
+    "whatsapp": "WhatsApp",
+    "website": "Website",
+    "timings": "Timings",
+
+    "street": "Street",
+    "locality": "Locality",
+    "landmark": "Landmark",
+    "city": "City",
+    "state": "State",
+    "zip_code": "Zip Code",
+
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "youtube": "YouTube",
+    "x": "X (Twitter)",
+
+    "registration_number": "Registration No",
+    "gstin": "GSTIN",
+
+    "connect": "Connect with Us",
+    "gallery": "Our Works"
+  },
+
+  "category": {
+    "no_businesses": "No businesses found in this category."
+  },
+  "unknown_category": "Unknown Category",
+  "register": {
+    "choose_method": "Choose verification method",
+    "use_mobile": "Use Mobile",
+    "use_email": "Use Email",
+    "email": "Email",
+    "email_invalid": "Invalid email address",
+    "resend_wait": "Resend in {{seconds}}s",
+    "heading": "Create Account",
+    "verify": "Verify Mobile",
+    "subheading": "Join us and start growing",
+    "otp_subheading": "Enter the OTP sent to {{mobile}}",
+    "username": "Username",
+    "mobile": "10-digit mobile",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "otp": "Enter 5-digit OTP",
+    "register": "Register",
+    "registering": "Registering…",
+    "verify_button": "Verify OTP",
+    "resend_otp": "Resend OTP",
+    "otp_sent": "OTP sent to your mobile",
+    "otp_resent": "OTP resent",
+    "otp_failed": "OTP verification failed",
+    "otp_resend_failed": "Failed to resend OTP",
+    "username_checking": "Checking username…",
+    "username_available": "Username is available",
+    "username_taken": "Username is already taken",
+    "username_check_fail": "Could not verify username",
+    "available": "Available",
+    "checking": "Checking…",
+    "all_required": "All fields required.",
+    "username_short": "Username must be at least 3 characters.",
+    "mobile_invalid": "Mobile must be 10 digits.",
+    "password_weak": "Password must be at least 8 characters with 1 uppercase, 1 lowercase, and 1 number.",
+    "password_mismatch": "Passwords do not match.",
+    "failed": "Registration failed",
+    "otp_invalid": "Enter the 5-digit OTP"
+  },
+  "signin": {
+    "title": "Sign In",
+    "identifier_placeholder": "Username / Mobile / Email",
+    "password_placeholder": "Password",
+    "signin": "Sign In",
+    "signing_in": "Signing In...",
+    "forgot_password": "Forgot Password?",
+    "no_account": "Don't have an account?",
+    "create_one": "Create one",
+    "required": "All fields are required",
+    "mobile_invalid": "Invalid mobile number",
+    "email_invalid": "Invalid email address",
+    "login_failed": "Login failed"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "active_status": "Business Active",
+    "loading_title": "Loading…",
+    "loading_subtitle": "Fetching your business details, please wait.",
+    "edit_button": "Edit",
+    "delete_button": "Delete",
+    "delete_confirm": "Delete your listing permanently?",
+    "delete_success": "Business deleted.",
+    "delete_error": "Error deleting business."
+  },
+  "detail_section": {
+    "business_info": "Business Information",
+    "address_details": "Address Details",
+    "social_presence": "Social Presence",
+    "legal_info": "Legal Information"
+  },
+
+  "media": {
+    "title": "Media Gallery",
+    "items": "items",
+    "logo": "Logo",
+    "banner": "Banner",
+    "gallery": "Gallery"
+  },
+
+  "edit_button": "Edit",
+  "delete_button": "Delete",
+
+  "profile": {
+    "title": "Profile",
+    "logout": "Logout",
+    "edit": "Edit Profile",
+    "change_password": "Change Password",
+    "saving": "Saving...",
+    "save_changes": "Save Changes",
+    "changing": "Changing...",
+    "change": "Change Password",
+    "cancel": "Cancel",
+    "info": "Profile Information",
+
+    "username": "Username",
+    "mobile": "Mobile",
+    "email": "Email",
+    "mobile_note": "Mobile (cannot be changed)",
+    "optional_email": "Email (optional)",
+
+    "current_password": "Current Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm New Password",
+
+    "loading": "Loading profile…",
+    "update_success": "Profile updated successfully",
+    "password_change_success": "Password changed successfully",
+    "avatar_success": "Avatar updated successfully",
+
+    "load_error": "Failed to load profile",
+    "update_error": "Failed to update profile",
+    "password_change_error": "Failed to change password",
+    "avatar_error": "Failed to update avatar",
+
+    "username_required": "Username is required.",
+    "username_length": "Username must be at least 3 characters.",
+    "invalid_email": "Invalid email format.",
+    "current_password_required": "Current password is required.",
+    "new_password_required": "New password is required.",
+    "new_password_pattern": "New password must be at least 8 characters with uppercase, lowercase, and number.",
+    "password_mismatch": "Passwords do not match.",
+    "no_email": "No email added"
+  },
+  "forgot": {
+    "title": "Forgot Password?",
+    "use_mobile": "Use Mobile",
+    "use_email": "Use Email",
+    "mobile_placeholder": "Enter your mobile number",
+    "email_placeholder": "Enter your email address",
+    "invalid_mobile": "Please enter a valid 10-digit mobile number",
+    "invalid_email": "Please enter a valid email address",
+    "send_otp": "Send OTP"
+  },
+  "verify": {
+    "title": "Enter OTP",
+    "subtitle": "We sent a 5-digit OTP to your {{type}}: {{value}}",
+    "mobile": "mobile",
+    "email": "email",
+    "otp_placeholder": "Enter the 5-digit OTP",
+    "button": "Verify OTP"
+  },
+  "reset": {
+  "title": "Set New Password",
+  "placeholder": "Enter your new password",
+  "button": "Reset Password",
+  "invalid_password": "Password must be at least 8 characters long and strong.",
+  "success": "Password reset successful. Please sign in."
+}
+
+}
